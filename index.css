@@ -1,0 +1,11 @@
+h1{
+    color: aqua;
+}
+h2{
+    color: burlywood;
+}
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+}
